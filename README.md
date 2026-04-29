@@ -103,9 +103,3 @@ install.packages(c("ggplot2", "dplyr", "lubridate"))
 - **dplyr** for data manipulation and summarisation
 - **lubridate** for date/time parsing
 - **Jupyter Notebook** with IRkernel (R kernel)
-
----
-
-## About
-
-This project is part of **Operation Graduate**, a structured plan to complete a Bachelor of Science in Data Analytics at Western Governors University by August 2026.
